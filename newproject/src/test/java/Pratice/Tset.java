@@ -6,7 +6,7 @@ public class Tset {
 @Test
  public void tsetcase1()
  {
-	 System.out.println("in test case");
+	 System.out.println("In test case");
  }
  
 	
